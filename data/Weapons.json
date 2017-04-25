@@ -1,0 +1,12 @@
+[
+null,
+{"id":1,"animationId":11,"description":"剑-使用者-英雄。","etypeId":1,"traits":[{"code":31,"dataId":1,"value":1},{"code":22,"dataId":0,"value":0.95}],"iconIndex":97,"name":"剑","note":"","params":[0,0,10,0,0,0,0,0],"price":500,"wtypeId":2},
+{"id":2,"animationId":6,"description":"剑-使用者-战士。","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0.8}],"iconIndex":99,"name":"斧头","note":"","params":[0,0,15,0,0,0,0,0],"price":500,"wtypeId":4},
+{"id":3,"animationId":38,"description":"剑-使用者-法师。","etypeId":1,"traits":[{"code":31,"dataId":2,"value":0},{"code":22,"dataId":0,"value":0.95}],"iconIndex":101,"name":"法杖","note":"","params":[0,0,0,0,10,0,0,0],"price":500,"wtypeId":6},
+{"id":4,"animationId":29,"description":"剑-使用者-祭司。","etypeId":1,"traits":[{"code":31,"dataId":7,"value":0},{"code":22,"dataId":0,"value":0.95}],"iconIndex":102,"name":"弓","note":"","params":[0,0,10,0,0,0,0,0],"price":500,"wtypeId":7},
+{"id":5,"animationId":14,"description":"","etypeId":1,"traits":[{"code":31,"dataId":4,"value":0},{"code":22,"dataId":0,"value":0.95}],"iconIndex":107,"name":"枪","note":"","params":[0,0,10,0,0,0,0,0],"price":500,"wtypeId":9},
+{"id":6,"animationId":13,"description":"剑-使用者-英雄。","etypeId":1,"traits":[{"code":31,"dataId":2,"value":0},{"code":22,"dataId":0,"value":0.95}],"iconIndex":112,"name":"重剑","note":"","params":[0,0,15,0,0,0,0,0],"price":1000,"wtypeId":2},
+{"id":7,"animationId":8,"description":"剑-使用者-战士。","etypeId":1,"traits":[{"code":31,"dataId":2,"value":0},{"code":22,"dataId":0,"value":0.85}],"iconIndex":122,"name":"重斧","note":"","params":[0,0,20,0,0,0,0,0],"price":1000,"wtypeId":4},
+{"id":8,"animationId":39,"description":"剑-使用者-法师。","etypeId":1,"traits":[{"code":31,"dataId":3,"value":0},{"code":22,"dataId":0,"value":0.95}],"iconIndex":108,"name":"主神法杖","note":"","params":[0,0,0,0,12,0,0,0],"price":1000,"wtypeId":6},
+{"id":9,"animationId":37,"description":"剑-使用者-祭司。","etypeId":1,"traits":[{"code":31,"dataId":8,"value":0},{"code":22,"dataId":0,"value":0.95}],"iconIndex":103,"name":"射日神弓","note":"","params":[0,0,12,0,0,0,0,0],"price":1000,"wtypeId":7}
+]

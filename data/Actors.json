@@ -1,0 +1,14 @@
+[
+null,
+{"id":1,"battlerName":"Actor1_1","characterIndex":0,"characterName":"Actor1","classId":1,"equips":[1,1,2,3,0],"faceIndex":0,"faceName":"Actor1","traits":[],"initialLevel":1,"maxLevel":99,"name":"秦叔宝","nickname":"小孟尝","note":"","profile":""},
+{"id":2,"battlerName":"Actor3-1","characterIndex":0,"characterName":"Actor3","classId":2,"equips":[2,1,2,3,0],"faceIndex":0,"faceName":"Actor3","traits":[],"initialLevel":1,"maxLevel":99,"name":"程咬金","nickname":"混世魔王","note":"","profile":""},
+{"id":3,"battlerName":"Actor2_5","characterIndex":4,"characterName":"Actor2","classId":3,"equips":[3,0,2,3,4],"faceIndex":4,"faceName":"Actor2","traits":[],"initialLevel":1,"maxLevel":99,"name":"伍云召","nickname":"南阳侯","note":"","profile":""},
+{"id":4,"battlerName":"Actor3-4","characterIndex":3,"characterName":"Actor3","classId":4,"equips":[4,0,2,3,4],"faceIndex":3,"faceName":"Actor3","traits":[],"initialLevel":1,"maxLevel":99,"name":"苏定芳","nickname":"冷面寒枪","note":"","profile":""},
+{"id":5,"battlerName":"Actor1_2","characterIndex":1,"characterName":"Actor1","classId":5,"equips":[0,0,0,0,0],"faceIndex":1,"faceName":"Actor1","traits":[],"initialLevel":1,"maxLevel":99,"name":"无名","nickname":"","note":"","profile":"家境贫寒，心有大志。"},
+{"id":6,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":"用作密码输入。"},
+{"id":7,"battlerName":"Actor2_1","characterIndex":0,"characterName":"Actor2","classId":1,"equips":[1,0,0,0,0],"faceIndex":0,"faceName":"Actor2","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
+{"id":8,"battlerName":"Actor2_1","characterIndex":2,"characterName":"Actor3","classId":2,"equips":[2,0,0,0,0],"faceIndex":2,"faceName":"Actor3","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
+{"id":9,"battlerName":"Actor2_8","characterIndex":7,"characterName":"Actor2","classId":3,"equips":[3,0,0,0,0],"faceIndex":7,"faceName":"Actor2","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
+{"id":10,"battlerName":"Actor2_4","characterIndex":3,"characterName":"Actor2","classId":4,"equips":[4,0,0,0,0],"faceIndex":3,"faceName":"Actor2","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
+{"id":11,"battlerName":"Actor3_7","characterIndex":6,"characterName":"Actor3","classId":1,"equips":[0,0,0,0,0],"faceIndex":6,"faceName":"Actor3","traits":[],"initialLevel":1,"maxLevel":99,"name":"李建成","nickname":"太子","note":"","profile":"太子，太宗之兄。"}
+]
